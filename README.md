@@ -1,16 +1,16 @@
-## Hi there 👋
+## 📦 Mod Download Stats
 
-<!--
-**winkwong/winkwong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Ren-Mod
+![Ren-Mod Downloads](https://img.shields.io/github/downloads/winkwong/Ren-Mod/total)
 
-Here are some ideas to get you started:
+### Guest7-Mod
+![Guest7-Mod Downloads](https://img.shields.io/github/downloads/winkwong/Guest7-Mod/total)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Paradise-Mod
+![Paradise-Mod Downloads](https://img.shields.io/github/downloads/winkwong/Paradise-Mod/total)
+
+### Nticx-Mod
+![Nticx-Mod Downloads](https://img.shields.io/github/downloads/winkwong/Nticx-Mod/total)
+
+### Charm-Mod
+![Charm-Mod Downloads](https://img.shields.io/github/downloads/winkwong/Charm-Mod/total)
