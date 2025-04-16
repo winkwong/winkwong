@@ -1,4 +1,4 @@
-## 📦 Mod Download Stats
+## ⬇️ Mod Download Stats
 
 ### [Ren-Mod](https://github.com/winkwong/Ren-Mod) [![Ren-Mod Downloads](https://img.shields.io/github/downloads/winkwong/Ren-Mod/total?label=DOWNLOADS)](https://github.com/winkwong/Ren-Mod)
 
