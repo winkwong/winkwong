@@ -18,8 +18,6 @@
 
 ### [Boss-Mod](https://github.com/winkwong/Ren-Mod) [![Ren-Mod Downloads](https://img.shields.io/github/downloads/winkwong/Boss-Mod/total?label=DOWNLOADS)](https://github.com/winkwong/Boss-Mod)
 
-### [winkwong](https://github.com/winkwong/Ren-Mod) [![Ren-Mod Downloads](https://img.shields.io/github/downloads/winkwong/winkwong/total?label=DOWNLOADS)](https://github.com/winkwong/winkwong)
-
 ### [Charm-Mod](https://github.com/winkwong/Ren-Mod) [![Ren-Mod Downloads](https://img.shields.io/github/downloads/winkwong/Charm-Mod/total?label=DOWNLOADS)](https://github.com/winkwong/Charm-Mod)
 
 ### [Paradise-Mod](https://github.com/winkwong/Ren-Mod) [![Ren-Mod Downloads](https://img.shields.io/github/downloads/winkwong/Paradise-Mod/total?label=DOWNLOADS)](https://github.com/winkwong/Paradise-Mod)
