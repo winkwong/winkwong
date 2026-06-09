@@ -1,5 +1,13 @@
 ## ⬇️ Mod Download Stats
 
+### [New-Era-Mod](https://github.com/winkwong/New-Era-Mod) [![New-Era-Mod Downloads](https://img.shields.io/github/downloads/winkwong/New-Era-Mod/total?label=DOWNLOADS)](https://github.com/winkwong/New-Era-Mod)
+
+### [Venge-Mod-Uploader](https://github.com/winkwong/Venge-Mod-Uploader) [![Venge-Mod-Uploader Downloads](https://img.shields.io/github/downloads/winkwong/Venge-Mod-Uploader/total?label=DOWNLOADS)](https://github.com/winkwong/Venge-Mod-Uploader)
+
+### [RVNG-Mod](https://github.com/winkwong/RVNG-Mod) [![RVNG-Mod Downloads](https://img.shields.io/github/downloads/winkwong/RVNG-Mod/total?label=DOWNLOADS)](https://github.com/winkwong/RVNG-Mod)
+
+### [Boss-Mod](https://github.com/winkwong/Boss-Mod) [![Boss-Mod Downloads](https://img.shields.io/github/downloads/winkwong/Boss-Mod/total?label=DOWNLOADS)](https://github.com/winkwong/Boss-Mod)
+
 ### [Skylux-Mod](https://github.com/winkwong/Skylux-Mod) [![Skylux-Mod Downloads](https://img.shields.io/github/downloads/winkwong/Skylux-Mod/total?label=DOWNLOADS)](https://github.com/winkwong/Skylux-Mod)
 
 ### [Bostero-Mod](https://github.com/winkwong/Bostero-Mod) [![Bostero-Mod Downloads](https://img.shields.io/github/downloads/winkwong/Bostero-Mod/total?label=DOWNLOADS)](https://github.com/winkwong/Bostero-Mod)
@@ -15,8 +23,6 @@
 ### [4SPY-Mod](https://github.com/winkwong/4SPY-Mod) [![4SPY-Mod Downloads](https://img.shields.io/github/downloads/winkwong/4SPY-Mod/total?label=DOWNLOADS)](https://github.com/winkwong/4SPY-Mod)
 
 ### [Illumination-Mod](https://github.com/winkwong/Illumination-Mod) [![Illumination-Mod Downloads](https://img.shields.io/github/downloads/winkwong/Illumination-Mod/total?label=DOWNLOADS)](https://github.com/winkwong/Illumination-Mod)
-
-### [Boss-Mod](https://github.com/winkwong/Boss-Mod) [![Boss-Mod Downloads](https://img.shields.io/github/downloads/winkwong/Boss-Mod/total?label=DOWNLOADS)](https://github.com/winkwong/Boss-Mod)
 
 ### [Charm-Mod](https://github.com/winkwong/Charm-Mod) [![Charm-Mod Downloads](https://img.shields.io/github/downloads/winkwong/Charm-Mod/total?label=DOWNLOADS)](https://github.com/winkwong/Charm-Mod)
 
