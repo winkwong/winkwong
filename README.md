@@ -4,6 +4,8 @@
 
 ### [Venge-Mod-Uploader](https://github.com/winkwong/Venge-Mod-Uploader) [![Venge-Mod-Uploader Downloads](https://img.shields.io/github/downloads/winkwong/Venge-Mod-Uploader/total?label=DOWNLOADS)](https://github.com/winkwong/Venge-Mod-Uploader)
 
+### [Venge-Mod-Uploader](https://github.com/winkwong/Venge-Mod-Uploader) [![Venge-Mod-Uploader Downloads](https://badgen.net/github/assets-dl/winkwong/Venge-Mod-Uploader?label=DOWNLOADS)](https://github.com/winkwong/Venge-Mod-Uploader)
+
 ### [RVNG-Mod](https://github.com/winkwong/RVNG-Mod) [![RVNG-Mod Downloads](https://img.shields.io/github/downloads/winkwong/RVNG-Mod/total?label=DOWNLOADS)](https://github.com/winkwong/RVNG-Mod)
 
 ### [Boss-Mod](https://github.com/winkwong/Boss-Mod) [![Boss-Mod Downloads](https://img.shields.io/github/downloads/winkwong/Boss-Mod/total?label=DOWNLOADS)](https://github.com/winkwong/Boss-Mod)
