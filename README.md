@@ -6,7 +6,6 @@
 
 ## ⬇️ Venge Mods
 <!-- VENGE_MODS_START -->
-### [New-Era-Mod](https://github.com/winkwong/New-Era-Mod) [![New-Era-Mod Downloads](https://badgen.net/github/assets-dl/winkwong/New-Era-Mod?label=DOWNLOADS)](https://github.com/winkwong/New-Era-Mod)
 
 ### [New-Era-Mod](https://github.com/winkwong/New-Era-Mod) [![New-Era-Mod Downloads](https://badgen.net/github/assets-dl/winkwong/New-Era-Mod?label=DOWNLOADS)](https://github.com/winkwong/New-Era-Mod)
 
