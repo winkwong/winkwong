@@ -5,6 +5,8 @@
 ---
 
 ## ⬇️ Venge Mods
+<!-- VENGE_MODS_START -->
+### [New-Era-Mod](https://github.com/winkwong/New-Era-Mod) [![New-Era-Mod Downloads](https://badgen.net/github/assets-dl/winkwong/New-Era-Mod?label=DOWNLOADS)](https://github.com/winkwong/New-Era-Mod)
 
 ### [New-Era-Mod](https://github.com/winkwong/New-Era-Mod) [![New-Era-Mod Downloads](https://badgen.net/github/assets-dl/winkwong/New-Era-Mod?label=DOWNLOADS)](https://github.com/winkwong/New-Era-Mod)
 
@@ -37,3 +39,4 @@
 ### [Ren-Mod](https://github.com/winkwong/Ren-Mod) [![Ren-Mod Downloads](https://badgen.net/github/assets-dl/winkwong/Ren-Mod?label=DOWNLOADS)](https://github.com/winkwong/Ren-Mod)
 
 ### [Guest7-Mod](https://github.com/winkwong/Guest7-Mod) [![Guest7-Mod Downloads](https://badgen.net/github/assets-dl/winkwong/Guest7-Mod?label=DOWNLOADS)](https://github.com/winkwong/Guest7-Mod)
+<!-- VENGE_MODS_END -->
