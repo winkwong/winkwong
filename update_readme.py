@@ -3,8 +3,8 @@ import re
 import os
 
 USERNAME = "winkwong"
-# Fetch all public repos for the user
-url = f"https://api.github.com/users/{USERNAME}/repos?per_page=100"
+# Fetch public repos sorted by creation date (newest first)
+url = f"https://api.github.com/users/{USERNAME}/repos?per_page=100&sort=created&direction=desc"
 response = requests.get(url)
 repos = response.json()
 
@@ -32,4 +32,4 @@ new_readme = re.sub(pattern, rf"\g<1>{markdown_content}\g<2>", readme, flags=re.
 with open("README.md", "w") as file:
     file.write(new_readme)
 
-print("README.md updated successfully!")
+print("README.md updated successfully with newest mods first!")
