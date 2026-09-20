@@ -2,6 +2,8 @@
 
 ### [Venge-Mod-Uploader](https://github.com/winkwong/Venge-Mod-Uploader) [![Venge-Mod-Uploader Downloads](https://badgen.net/github/assets-dl/winkwong/Venge-Mod-Uploader?label=DOWNLOADS)](https://github.com/winkwong/Venge-Mod-Uploader)
 
+### [Venge-Official-Client](https://github.com/winkwong/Venge-Mod-Uploader) [![Venge-Official-Client Downloads](https://badgen.net/github/assets-dl/winkwong/Venge-Official-Client?label=DOWNLOADS)](https://github.com/winkwong/Venge-Official-Client)
+
 ---
 
 ## ⬇️ Venge Mods
